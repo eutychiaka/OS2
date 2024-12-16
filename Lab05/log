@@ -1,0 +1,31 @@
+/home/eftychiak/Lab05
+example1.c
+example2.c
+example3.c
+example4
+example4.c
+example5.c
+example6
+example6.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+-bash: cd: /Lab04: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: new_folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 295694      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1280/eftychiak)   Gid: ( 1282/eftychiak)
+Access: 2024-12-16 12:43:48.395652425 +0200
+Modify: 2024-12-16 12:43:48.395652425 +0200
+Change: 2024-12-16 12:43:48.395652425 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+cat: file.txt: No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 298031      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1280/eftychiak)   Gid: ( 1282/eftychiak)
+Access: 2024-12-16 12:54:14.383310308 +0200
+Modify: 2024-12-16 12:54:14.383310308 +0200
+Change: 2024-12-16 12:54:14.383310308 +0200
+ Birth: -
