@@ -1,0 +1,7 @@
+*.o
+*.out
+fork3
+pipesignal
+killsignal
+writepid
+addfunction
