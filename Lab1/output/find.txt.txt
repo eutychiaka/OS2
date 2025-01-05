@@ -1,3 +1,0 @@
-./input.txt
-./find.mov.txt
-./find.txt.txt
