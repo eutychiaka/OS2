@@ -1,0 +1,14 @@
+#!/bin/bash
+
+
+date
+
+current_time=$(date +%s)
+
+double_time=$((current_time)*2)
+
+echo "current time in seconds: $current_time"
+
+echo "current time *2: $double_time"
+echo "current time in seconds: $current_time"
+echo "current time in seconds: $current_time"
